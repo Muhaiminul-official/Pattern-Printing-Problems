@@ -42,8 +42,8 @@ Each pattern is linked to its respective solution file:
 
 ```
 * * * *
-*       *
-*       *
+*     *
+*     *
 * * * *
 ```
 
